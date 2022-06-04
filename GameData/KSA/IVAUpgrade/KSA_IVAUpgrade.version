@@ -1,0 +1,13 @@
+{
+  "NAME": "KSA_IVAUpgrade",
+  "URL": "https://raw.githubusercontent.com/JonnyOThan/KSA-IVA-Upgrade/main/GameData/KSA/IVAUpgrade/KSA_IVAUpgrade.version",
+  "DOWNLOAD": "https://github.com/JonnyOThan/KSA-IVA-Upgrade/releases",
+  "GITHUB" : {
+	  "USERNAME" : "JonnyOThan",
+	  "REPOSITORY" : "KSA-IVA-Upgrade"
+  },
+  "VERSION" :         "1.5.0",
+  "KSP_VERSION" :     "1.12.3",
+  "KSP_VERSION_MIN" : "1.8.0",
+  "KSP_VERSION_MAX" : "1.12.99"
+}
