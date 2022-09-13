@@ -8,6 +8,7 @@ Included IVAs:
 * mk1 Lander Can
 * mk1 Cockpit
 * mk1 Inline Cockpit
+* mk2 Lander Can
 * kv1 Reentry Module
 * BDB Apollo CM
 * BDB Apollo LM
