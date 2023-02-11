@@ -12,6 +12,7 @@ Included IVAs:
 * kv1 Reentry Module
 * BDB Apollo CM
 * BDB Apollo LM
+* ProbeControlRoom
 
 If you have DE_IVAExtension installed, you may want to install Reviva to allow switching between IVAs in the VAB.
 
